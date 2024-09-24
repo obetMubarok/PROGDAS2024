@@ -1,3 +1,9 @@
+/*
+	Buatlah program ATM setor tunai, 
+	yang menampilkan informasi jumlah saldo, 
+	dan menerima masukan nominal uang yang akan disetor. 
+	Selanjutnya program menampilkan saldo terbaru ke layar.
+*/
 #include <stdio.h>
 int main(){
 	//1. definisi variabel
