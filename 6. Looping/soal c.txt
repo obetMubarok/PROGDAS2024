@@ -1,0 +1,4 @@
+1. buatlah program untuk menampilkan teks "loop" sebanyak 3 kali
+2. buatlah program untuk menampilkan bilangan 1 sampai 10
+3. buatlah program untuk menampilkan bilangan 10 bilangan genap pertama
+4. buatlah program untuk menerima masukan bilangan dari user terus, sampai user memasukkan angka 5
