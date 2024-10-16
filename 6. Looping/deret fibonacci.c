@@ -1,4 +1,4 @@
-//menampilkan 1-10
+//menampilkan deret fibonacci  1 2 3 5 8 13 ...
 #include <stdio.h>
 int main(){
 	int angka1 = 1;
