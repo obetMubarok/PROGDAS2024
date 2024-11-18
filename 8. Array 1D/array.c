@@ -2,7 +2,7 @@
 int main(){
 	int nilai[] = {5,0,20,0,0,50,60,30,0,0};
 	
-	//1.tampilkan data 70 ke layar
+	//1.tampilkan data 30 ke layar
 	printf("%d\n",nilai[7]);
 	//2. tampilkan data yang berada di index ke-4
 	printf("%d\n",nilai[4]);
