@@ -1,0 +1,4 @@
+A
+belajar file handling
+
+100000

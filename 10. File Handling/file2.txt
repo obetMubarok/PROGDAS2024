@@ -1,0 +1,5 @@
+1 Budi 10000
+2 Iwan 20000
+3 Wawan 40000
+4 Robet 50000
+6 Ibu 60000
